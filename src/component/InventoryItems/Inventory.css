@@ -1,0 +1,22 @@
+.items{
+    list-style: none;
+  
+}
+.items li{
+ display: flex;
+ flex-direction: row;
+ gap:25px;
+ justify-content: center;
+  margin-top:10px;
+  font-weight: bold;
+}
+.item-input{
+    width:30px
+}
+
+.btn.disable{
+background-color: #cccccc;
+  color: #666666;
+  cursor: not-allowed;
+
+}

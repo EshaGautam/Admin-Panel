@@ -1,0 +1,17 @@
+.modal-cart {
+  background-color: #f8eeee; 
+  color: black;  
+  height: 10%;
+}
+
+.modal-cart h1 {
+margin-left: 45%;
+}
+
+.modal-cart button{
+    position: absolute;
+    width: 100px;
+    height: 25px;
+    top:20px;
+    
+}
